@@ -75,7 +75,7 @@
 .icon{
     color: #ffffff;
 }
-.humberger{
+.hamburger{
     display: none;
 }
 .banner{
@@ -163,24 +163,24 @@ position: relative;
     gap: 16px;
 
 }
-.achievment-content{
+.achievement-content{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     column-gap: 80px;
 }
-.achievment-number{
+.achievement-number{
     color: rgba(0, 255, 136, 1);
     font-size: 3rem;
     font-weight: 800;
     text-align: center;
 }
-.achievment-title{
+.achievement-title{
     color: #ffffff;
     font-size: 1rem;
     font-weight: 400;
     text-align: center;
 }
-.achievment-items{
+.achievement-items{
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -485,13 +485,13 @@ nav>button{
 br{
     display: none;
 }
-.achievment-content{
+.achievement-content{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     column-gap: 80px;
     row-gap: 16px;
 }
-.achievment-number{
+.achievement-number{
     color: rgba(0, 255, 136, 1);
     font-size: 2.5rem;
     font-weight: 800;
